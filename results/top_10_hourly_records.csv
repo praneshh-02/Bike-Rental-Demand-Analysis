@@ -1,0 +1,11 @@
+DateTime,cnt,season_name,weather_name,temp,hum
+2012-09-12 18:00:00,977,Summer,Clear / partly cloudy,0.66,0.44
+2012-09-20 17:00:00,976,Summer,Clear / partly cloudy,0.64,0.5
+2012-09-11 17:00:00,970,Summer,Clear / partly cloudy,0.7,0.28
+2012-09-10 18:00:00,968,Summer,Clear / partly cloudy,0.62,0.35
+2012-09-25 17:00:00,967,Fall,Clear / partly cloudy,0.66,0.39
+2012-10-24 17:00:00,963,Fall,Clear / partly cloudy,0.66,0.47
+2012-03-23 17:00:00,957,Spring,Mist / cloudy,0.72,0.42
+2012-09-26 17:00:00,953,Fall,Clear / partly cloudy,0.74,0.48
+2012-10-10 17:00:00,948,Fall,Clear / partly cloudy,0.58,0.43
+2012-10-16 17:00:00,943,Fall,Clear / partly cloudy,0.52,0.39

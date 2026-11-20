@@ -1,0 +1,14 @@
+season_name,weather_name,mean_rentals,total_rentals,records
+Fall,Clear / partly cloudy,209.463779225757,546491,2609
+Fall,Light rain or snow,116.45333333333333,43670,375
+Fall,Mist / cloudy,201.48397435897436,251452,1248
+Spring,Clear / partly cloudy,232.41098286114027,664463,2859
+Spring,Light rain or snow,115.17980295566502,46763,406
+Spring,Mist / cloudy,181.26136363636363,207363,1144
+Summer,Clear / partly cloudy,244.49420731707318,801941,3280
+Summer,Light rain or snow,171.95539033457248,46256,269
+Summer,Mist / cloudy,224.84899683210136,212932,947
+Winter,Clear / partly cloudy,122.05553470919324,325278,2665
+Winter,Heavy rain or snow,74.33333333333333,223,3
+Winter,Light rain or snow,58.65040650406504,21642,369
+Winter,Mist / cloudy,103.0746887966805,124205,1205
